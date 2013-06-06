@@ -1,0 +1,11 @@
+5
+Jarmo
+3000
+Pauli
+3000
+Kalle
+2000
+Jenna
+1000
+Uolevi
+0
